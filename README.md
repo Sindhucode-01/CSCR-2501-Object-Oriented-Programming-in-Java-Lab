@@ -1,4 +1,4 @@
-# CSCR 2503 - Object Oriented Programming in Java Lab
+# Java Program
 
 This repository contains Java programs and solutions for the **Object Oriented Programming Using Java Lab (CSCR 2503)**.
 
@@ -18,5 +18,5 @@ Java-Lab/
 
 ## Author
 
-**V.Divya Sindhu**
+**V. Divya Sindhu**
 
